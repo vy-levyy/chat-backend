@@ -6,4 +6,5 @@ The following base technologies are used here:
 - typescript;
 - node.js;
 - express;
+- mongoose;
 - websockets.
